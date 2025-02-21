@@ -1,0 +1,32 @@
+name: Update Followers
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Exécute tous les jours à minuit UTC
+  workflow_dispatch:    # Permet l'exécution manuelle
+
+jobs:
+  update-followers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script to update followers
+        run: python update_followers.py
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update README with latest followers"
