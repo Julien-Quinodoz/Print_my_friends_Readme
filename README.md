@@ -14,7 +14,7 @@ Dans ce guide, tu apprendras à afficher automatiquement les 10 derniers followe
 ## Étapes à suivre :
 
 ### 1. Ajoute le script `update_followers.py`
-Place ce script dans ton dépôt. Ce script récupère les informations des 10 derniers followers de ton profil GitHub via l'API GitHub.
+Place ce script dans ton dépôt. Ce script récupère les informations des 10 derniers followers de ton profil GitHub via l'API GitHub. Si vous avez un problème avec "import requests" faite une recherche sur venv pyton.
 
 ### 2. Modifie le nom d'utilisateur dans le script
 Ouvre `update_followers.py` et remplace `USERNAME` par ton propre nom d'utilisateur GitHub pour récupérer les bons followers.
