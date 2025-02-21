@@ -69,3 +69,77 @@ Cela te permet de mettre à jour ta liste de followers immédiatement sans atten
 
 ### 🚀 Bonne chance avec ton projet ! Si ce dépôt t'a été utile, n'hésite pas à lui donner une étoile ⭐ pour encourager le développement futur et aider d'autres utilisateurs !
 
+---
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Print+!+My+....+Friends!&center=true&size=25">
+  </a>
+</h1>
+<div align="center">
+
+---
+
+# Create a table of your 10 latest followers in your README!
+
+In this guide, you'll learn how to automatically display the 10 latest followers of your GitHub profile in your README using GitHub Actions.
+
+## Steps to follow:
+
+### 1. Add the `update_followers.py` script
+Place this script in your repository. This script fetches the information of your 10 latest followers from your GitHub profile using the GitHub API. If you have an issue with "import requests", make sure you are using a Python virtual environment (venv).
+
+### 2. Modify the username in the script
+Open `update_followers.py` and replace `USERNAME` with your own GitHub username to fetch the correct followers.
+
+### 3. Create the `.github/workflows` folder
+Make sure to create this folder at the root of your repository. The dot (`.`) at the beginning of the folder name is essential.
+
+### 4. Add the `update-followers.yml` file inside `.github/workflows`
+This YAML file will contain the GitHub Actions configuration, which will run your script once a day. Use cron to automate the execution.
+
+### 5. Add a "Latest GitHub Followers" block in your README
+
+In YOUR `README.md` file, insert the following section (`## Latest GitHub Followers`) to dynamically display the 10 latest followers:
+
+The format and name must be identical --->
+
+                                                 ## Latest GitHub Followers
+
+### 6. Run the script manually via GitHub Actions
+
+If you want to test or immediately update the list of the 10 latest followers, you can run the script manually from the GitHub Actions interface. Here’s how:
+
+1. **Go to GitHub Actions**:
+   Open your GitHub repository and go to the **Actions** tab located in the menu at the top of your page.
+
+2. **Select the workflow**:
+   In the workflows panel, you’ll see a list of defined workflows, including the one you set up to update the followers (`Update Followers List`).
+
+3. **Run the workflow manually**:
+   Click on the **Update Followers List** workflow. You should see a button called **Run workflow** on the right side of the page. Click it to start the workflow manually.
+
+4. **Check the execution**:
+   Once the workflow is triggered, GitHub Actions will begin executing the steps defined in the YAML file (including running the Python script). You can follow the progress and check the logs in real-time.
+
+5. **Immediate update**:
+   Once the execution is complete, your `followers.yml` file will be updated with the 10 latest followers. You will see the changes reflected in your repository and in your `README.md` after an automatic commit.
+
+This allows you to update your followers list immediately without waiting for the scheduled workflow execution.
+
+## Key Points:
+
+- **Maintain the format**: Make sure to keep the format of the `## Latest GitHub Followers` section in your README. This will ensure the script works correctly.
+- **Automation via GitHub Actions**: GitHub Actions will handle the daily execution, but you can always run the script manually if needed.
+- **Using the `followers.yml` file**: This file is generated and updated each time the script is run. It contains the list of the 10 latest followers, which you can use to customize the display of your followers in your `README.md`.
+
+## Additional Tips:
+
+- **Manual update**: If you want to update the followers list immediately, you can manually trigger the GitHub Action workflow from the GitHub interface (no need to wait for the scheduled 24-hour run).
+- **Customization**: Feel free to customize the `update_followers.py` script to fit your specific needs, such as filtering certain types of followers or adjusting how they are displayed in your `README.md`.
+
+---
+
+### 🚀 Good luck with your project! If this repository has been helpful, don’t forget to give it a star ⭐ to encourage future development and help other users!
+
+
