@@ -39,7 +39,7 @@ Dans TON fichier `README.md`, insère la section suivante(
 <tr><td><img src='https://github.com/AwTaS.png' width='50' height='50'></td><td><strong>AwTaS</strong></td><td><a href='https://github.com/AwTaS'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/LaSturn.png' width='50' height='50'></td><td><strong>LaSturn</strong></td><td><a href='https://github.com/LaSturn'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/K1rsN7.png' width='50' height='50'></td><td><strong>K1rsN7</strong></td><td><a href='https://github.com/K1rsN7'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/DIMFLIX-OFFICIAL.png' width='50' height='50'></td><td><strong>DIMFLIX-OFFICIAL</strong></td><td><a href='https://github.com/DIMFLIX-OFFICIAL'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/DIMFLIX.png' width='50' height='50'></td><td><strong>DIMFLIX</strong></td><td><a href='https://github.com/DIMFLIX'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/0yech.png' width='50' height='50'></td><td><strong>0yech</strong></td><td><a href='https://github.com/0yech'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/jelspace.png' width='50' height='50'></td><td><strong>jelspace</strong></td><td><a href='https://github.com/jelspace'>Profil</a></td></tr>
