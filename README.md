@@ -33,7 +33,7 @@ Dans TON fichier `README.md`, insère la section suivante(
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
-  <tr><td><img src='https://github.com/Cwilliam22.png' width='50' height='50'></td><td><strong>Cwilliam22</strong></td><td><a href='https://github.com/Cwilliam22'>Profil</a></td></tr>
+  <tr><td><img src='https://github.com/Peti6inge.png' width='50' height='50'></td><td><strong>Peti6inge</strong></td><td><a href='https://github.com/Peti6inge'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/42andy.png' width='50' height='50'></td><td><strong>42andy</strong></td><td><a href='https://github.com/42andy'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/AwTaS.png' width='50' height='50'></td><td><strong>AwTaS</strong></td><td><a href='https://github.com/AwTaS'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/LaSturn.png' width='50' height='50'></td><td><strong>LaSturn</strong></td><td><a href='https://github.com/LaSturn'>Profil</a></td></tr>
