@@ -33,8 +33,8 @@ Dans TON fichier `README.md`, insère la section suivante(
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
-  <tr><td><img src='https://github.com/K1rsN7.png' width='50' height='50'></td><td><strong>K1rsN7</strong></td><td><a href='https://github.com/K1rsN7'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/DIMFLIX.png' width='50' height='50'></td><td><strong>DIMFLIX</strong></td><td><a href='https://github.com/DIMFLIX'>Profil</a></td></tr>
+  <tr><td><img src='https://github.com/DIMFLIX.png' width='50' height='50'></td><td><strong>DIMFLIX</strong></td><td><a href='https://github.com/DIMFLIX'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/vokrob.png' width='50' height='50'></td><td><strong>vokrob</strong></td><td><a href='https://github.com/vokrob'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/cloutswagsauce.png' width='50' height='50'></td><td><strong>cloutswagsauce</strong></td><td><a href='https://github.com/cloutswagsauce'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/Maka-77x.png' width='50' height='50'></td><td><strong>Maka-77x</strong></td><td><a href='https://github.com/Maka-77x'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
