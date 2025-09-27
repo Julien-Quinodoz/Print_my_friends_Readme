@@ -33,14 +33,14 @@ Dans TON fichier `README.md`, insère la section suivante(
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
-  <tr><td><img src='https://github.com/K1rsN7.png' width='50' height='50'></td><td><strong>K1rsN7</strong></td><td><a href='https://github.com/K1rsN7'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/DIMFLIX.png' width='50' height='50'></td><td><strong>DIMFLIX</strong></td><td><a href='https://github.com/DIMFLIX'>Profil</a></td></tr>
+  <tr><td><img src='https://github.com/DIMFLIX.png' width='50' height='50'></td><td><strong>DIMFLIX</strong></td><td><a href='https://github.com/DIMFLIX'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/cloutswagsauce.png' width='50' height='50'></td><td><strong>cloutswagsauce</strong></td><td><a href='https://github.com/cloutswagsauce'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/Maka-77x.png' width='50' height='50'></td><td><strong>Maka-77x</strong></td><td><a href='https://github.com/Maka-77x'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/oluiscabral.png' width='50' height='50'></td><td><strong>oluiscabral</strong></td><td><a href='https://github.com/oluiscabral'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/standardgalactic.png' width='50' height='50'></td><td><strong>standardgalactic</strong></td><td><a href='https://github.com/standardgalactic'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/0yech.png' width='50' height='50'></td><td><strong>0yech</strong></td><td><a href='https://github.com/0yech'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/Keereslame.png' width='50' height='50'></td><td><strong>Keereslame</strong></td><td><a href='https://github.com/Keereslame'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/jelspace.png' width='50' height='50'></td><td><strong>jelspace</strong></td><td><a href='https://github.com/jelspace'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/schalkventer.png' width='50' height='50'></td><td><strong>schalkventer</strong></td><td><a href='https://github.com/schalkventer'>Profil</a></td></tr>
 </table>
