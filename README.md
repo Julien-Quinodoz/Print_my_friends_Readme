@@ -33,8 +33,8 @@ Dans TON fichier `README.md`, insère la section suivante(
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
-  <tr><td><img src='https://github.com/seckinyasar.png' width='50' height='50'></td><td><strong>seckinyasar</strong></td><td><a href='https://github.com/seckinyasar'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/helallao.png' width='50' height='50'></td><td><strong>helallao</strong></td><td><a href='https://github.com/helallao'>Profil</a></td></tr>
+  <tr><td><img src='https://github.com/cloutswagsauce.png' width='50' height='50'></td><td><strong>cloutswagsauce</strong></td><td><a href='https://github.com/cloutswagsauce'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/Maka-77x.png' width='50' height='50'></td><td><strong>Maka-77x</strong></td><td><a href='https://github.com/Maka-77x'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/oluiscabral.png' width='50' height='50'></td><td><strong>oluiscabral</strong></td><td><a href='https://github.com/oluiscabral'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/standardgalactic.png' width='50' height='50'></td><td><strong>standardgalactic</strong></td><td><a href='https://github.com/standardgalactic'>Profil</a></td></tr>
