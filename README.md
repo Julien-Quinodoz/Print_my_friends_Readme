@@ -34,7 +34,7 @@ Dans TON fichier `README.md`, insère la section suivante(
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
   <tr><td><img src='https://github.com/Maka-77x.png' width='50' height='50'></td><td><strong>Maka-77x</strong></td><td><a href='https://github.com/Maka-77x'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/FireInsidE-fie.png' width='50' height='50'></td><td><strong>FireInsidE-fie</strong></td><td><a href='https://github.com/FireInsidE-fie'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/stellaaash.png' width='50' height='50'></td><td><strong>stellaaash</strong></td><td><a href='https://github.com/stellaaash'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/oluiscabral.png' width='50' height='50'></td><td><strong>oluiscabral</strong></td><td><a href='https://github.com/oluiscabral'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/standardgalactic.png' width='50' height='50'></td><td><strong>standardgalactic</strong></td><td><a href='https://github.com/standardgalactic'>Profil</a></td></tr>
